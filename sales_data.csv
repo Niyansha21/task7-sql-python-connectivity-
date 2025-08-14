@@ -1,0 +1,21 @@
+product_id,product,category,quantity,price,supplier,location,rating,in_stock,discount
+1,Apple,Fruit,50,12.5,Fresh Farms,Delhi,4.5,1,5.0
+2,Banana,Tropical,30,8.0,Nature's Basket,Mumbai,4.0,1,3.0
+3,Orange,Citrus,20,15.0,Organic Hub,Bangalore,3.8,1,2.5
+4,Mango,Tropical,10,25.0,Fresh Farms,Chennai,4.9,1,10.0
+5,Grapes,Fruit,40,18.75,Nature's Basket,Kolkata,4.2,1,1.5
+6,Pineapple,Tropical,15,22.4,Organic Hub,Delhi,4.1,0,0.0
+7,Kiwi,Fruit,12,35.0,Fresh Farms,Mumbai,4.7,1,7.0
+8,Papaya,Tropical,18,19.9,Nature's Basket,Bangalore,4.0,1,3.5
+9,Guava,Citrus,25,14.2,Organic Hub,Chennai,3.6,1,2.0
+10,Watermelon,Fruit,8,28.5,Fresh Farms,Kolkata,4.4,1,4.0
+11,Apple,Fruit,60,11.75,Nature's Basket,Delhi,4.1,1,5.5
+12,Banana,Tropical,35,9.5,Organic Hub,Mumbai,3.9,1,2.0
+13,Orange,Citrus,22,16.25,Fresh Farms,Bangalore,4.3,1,3.0
+14,Mango,Tropical,14,24.5,Nature's Basket,Chennai,4.8,0,8.5
+15,Grapes,Fruit,48,17.0,Organic Hub,Kolkata,4.0,1,2.75
+16,Pineapple,Tropical,20,21.6,Fresh Farms,Delhi,4.5,1,0.0
+17,Kiwi,Fruit,9,36.25,Nature's Basket,Mumbai,4.6,1,6.0
+18,Papaya,Tropical,16,20.1,Organic Hub,Bangalore,4.1,1,3.2
+19,Guava,Citrus,28,13.9,Fresh Farms,Chennai,3.7,1,2.5
+20,Watermelon,Fruit,12,27.8,Nature's Basket,Kolkata,4.2,1,4.5
