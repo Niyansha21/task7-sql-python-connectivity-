@@ -3,6 +3,12 @@
 ## PROJECT OVERVIEW
 A Python script that extracts sales data from MySQL, analyzes product performance, and generates visual reports.
 
+## DELIVERABLES
+- Script.py : main python script in which query has written with bar chart plotting.
+- sales_data.sql : it is created using mysql for small database generation then loaded to pycharm.
+- sales_data.csv : it is optional but created that is why i uploaded, it is also created using python.
+- revenue_by_product.png : this is the image of my bar chart.
+
 ## PREREQUISITES
 1. MySQL Server installed and running.
 2. Database: sales_data_db (ensure this database is created).
